@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: https://denisannie.github.io/My-bolg/
+  name: git-gateway
   branch: main
 
 media_folder: "images/uploads"
