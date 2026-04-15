@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+  repo: https://denisannie.github.io/My-bolg/
   branch: main
 
 media_folder: "images/uploads"
